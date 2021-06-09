@@ -25,6 +25,8 @@ Calculo de Error
 
 **5. VIDEO**
 
+https://youtu.be/pENlvHonJWw
+
 **6. CONCLUSIONES**
 
 **7. BIBLIOGRAFÍA**
