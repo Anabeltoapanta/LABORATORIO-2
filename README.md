@@ -12,13 +12,14 @@ Objetivos Específicos
 - Verificar experimentalmente los métodos de análisis de mallas y de nodos como método  para la resolución  de un circuito eléctrico.
 
 **2. MARCO TEÓRICO**
-
+![](https://github.com/Anabeltoapanta/LABORATORIO-2/blob/main/informe%202.png)
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 ![](https://github.com/Anabeltoapanta/LABORATORIO-2/blob/main/1.jpg)
 ![](https://github.com/Anabeltoapanta/LABORATORIO-2/blob/main/2.jpg)
-**4. PREGUNTAS A INTERROGANTES**
+**4. PREGUNTAS A INTERROGANTES*
 ![](https://github.com/Anabeltoapanta/LABORATORIO-2/blob/main/3.jpg)
 ![](https://github.com/Anabeltoapanta/LABORATORIO-2/blob/main/4.jpg)
+![](https://github.com/Anabeltoapanta/LABORATORIO-2/blob/main/tabla%20error%20informe%202.png)
 **5. VIDEO**
 
 **6. CONCLUSIONES**
