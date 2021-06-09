@@ -16,7 +16,7 @@ Objetivos Específicos
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 ![](https://github.com/Anabeltoapanta/LABORATORIO-2/blob/main/1.jpg)
 ![](https://github.com/Anabeltoapanta/LABORATORIO-2/blob/main/2.jpg)
-**4. PREGUNTAS A INTERROGANTES*
+**4. PREGUNTAS A INTERROGANTES**
 ![](https://github.com/Anabeltoapanta/LABORATORIO-2/blob/main/3.jpg)
 ![](https://github.com/Anabeltoapanta/LABORATORIO-2/blob/main/4.jpg)
 Calculo de Error
