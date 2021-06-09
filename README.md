@@ -4,6 +4,8 @@
 
 Objetivo General
 
+Comprender el método de análisis de mallas y poder establecer una relación entre el uso de la ley de Ohm y las leyes de Kirchoff , ademas de los conceptos básicos del análisis de circuitos.
+
 
 Objetivos Específicos
 
