@@ -10,6 +10,7 @@ Objetivos Específicos
 - Estudiar la aplicación de la ley de voltajes de Kyrchoff en circuitos mixtos aplicando la definición de mallas.
 - Demostrar el uso correcto del instrumento de medición en las diferentes mallas del modulo didáctico construido.
 - Verificar experimentalmente los métodos de análisis de mallas y de nodos como método  para la resolución  de un circuito eléctrico.
+- Comparar los cálculos teóricos con los prácticos de medición de intensidad de corriente eléctrica y analizar el posible margen de error entre ellas .
 
 **2. MARCO TEÓRICO**
 ![](https://github.com/Anabeltoapanta/LABORATORIO-2/blob/main/informe%202.png)
