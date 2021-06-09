@@ -7,6 +7,8 @@ Objetivo General
 
 Objetivos Específicos
 
+- Estudiar la aplicación de la ley de voltajes de Kyrchoff en circuitos mixtos aplicando la definición de mallas.
+
 **2. MARCO TEÓRICO**
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
