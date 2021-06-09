@@ -19,7 +19,9 @@ Objetivos Específicos
 **4. PREGUNTAS A INTERROGANTES*
 ![](https://github.com/Anabeltoapanta/LABORATORIO-2/blob/main/3.jpg)
 ![](https://github.com/Anabeltoapanta/LABORATORIO-2/blob/main/4.jpg)
+Calculo de Error
 ![](https://github.com/Anabeltoapanta/LABORATORIO-2/blob/main/tabla%20error%20informe%202.png)
+
 **5. VIDEO**
 
 **6. CONCLUSIONES**
