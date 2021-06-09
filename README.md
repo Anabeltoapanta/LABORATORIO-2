@@ -28,6 +28,7 @@ Calculo de Error
 **6. CONCLUSIONES**
 
 **7. BIBLIOGRAFÍA**
+
 allan h. robins,  wilhelm c. mille. (2013). Analisis De Circuitos (Vol. 1).
 
 
