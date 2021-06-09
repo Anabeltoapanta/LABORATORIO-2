@@ -32,6 +32,8 @@ https://youtu.be/pENlvHonJWw
 
 **6. CONCLUSIONES**
 
+En conclusión podemos observar que para poder encontrar las variables y resolver los circuitos con dos o más fuentes de poder, una de las mejores opciones para resolverlos es el método de análisis de malla por lazos, ya que aplicando las leyes de Kirchhoff en especifico la ley del voltaje podemos encontrar de manera directa las variables a encontrar, sin necesidad de reducir el sistema a resistencias equivalentes, por otro lado la parte complicada del método es identificar los voltajes que están a favor o en contra en los nodos donde se encuentran voltajes de diferentes fuentes de poder.k
+
 **7. BIBLIOGRAFÍA**
 
 allan h. robins,  wilhelm c. mille. (2013). Analisis De Circuitos (Vol. 1).
